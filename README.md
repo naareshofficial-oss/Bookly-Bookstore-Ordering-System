@@ -1,4 +1,4 @@
-# Bookly -- Online Bookstore Management System
+# Bookly Bookstore Ordering System
 
 ## Project Overview
 
